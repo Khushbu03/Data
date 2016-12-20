@@ -1,0 +1,20 @@
+Bank Deposit Program (BDP)
+Duration	Aug 2015 – Till date
+Customer	Morgan Stanley Smith Barney, USA
+Role	Team Member
+Environment	Linux 
+Tools	SQuirrel, Eclipse, JIRA
+Description	High Yield Savings (HYS) is one of the products being offered by the business to increase significantly the level of deposits that are held by the banks. Under HYS, the business will run promotional campaigns during which customers who deposit net new money into their savings account would benefit from the attractive promotional rate for a limited time period. Through this ticketed product, the customers would get the regular BAU(Business As Usual) rate.
+	Component Level Testing: Unit level testing of all BBB components individually through java fixture codes, and is run as part of timely build process through Jenkins.
+	Functional Testing: Testing of all functionalities related to Savings product in BBB. This includes testing of all scenarios including failure paths and boundary cases.
+	Component Integration Testing: Integration of BBB components between themselves and validating the result on downstream applications. Also validating data from upstream applications.
+	End To End Testing: Testing of BBB system in integrated MSSB environment by leveraging direct control of QA environment and project database.
+	UI Testing: Testing of each & every field and functionality available on BBB UI.
+Responsibilities		Analysis of requirements shared by BAs. Queries clarifications related to the requirements.
+	Created and executed software test plans, data, cases and scripts.
+	Database Testing using SQuirrel on DB2 db
+	Defect tracking and management through JIRA and ALM
+	Internal Quality Assurance
+	Weekly/Monthly Data Reporting to the client.
+	Client interaction.
+	Peer review of test cases
